@@ -48,6 +48,9 @@ htmlcov/
 .dmypy.json
 dmypy.json
 
+# Ruff
+.ruff_cache/
+
 # Output (keep directory, ignore contents)
 output/*
 !output/.gitkeep
